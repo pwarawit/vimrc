@@ -148,7 +148,7 @@ set encoding=utf8
 set ffs=unix,dos,mac
 
 " Set gui font
-set guifont=courier_new:h12
+set guifont=courier_new:h10
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
